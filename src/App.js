@@ -7,6 +7,7 @@ function App() {
     <ChakraProvider>
       <Crypt />
     </ChakraProvider>
+  /*this is routing*/
   );
 }
 
